@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369346078310",
+    "project_id": "mental-health-new-3d80c",
+    "storage_bucket": "mental-health-new-3d80c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369346078310:android:108fe1531acd811f1f2fa7",
+        "android_client_info": {
+          "package_name": "com.app.mentalhealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhRl9EuMc9ANkCfnCL3Z-QRwV82dNPxT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
